@@ -12,7 +12,7 @@ export default function hello() {
           </h1>  
         </div>  
         
-        <Link to="/go-to-func">  
+        <Link to="/go-to">  
           <button  
             className="mt-4 bg-white text-blue-500 px-3 py-1 rounded-md font-semibold hover:bg-gray-200"  
           >  
